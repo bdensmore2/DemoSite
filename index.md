@@ -1,7 +1,7 @@
 # Bronwen's DSRI Experiment Page
 
-## About
-this is just regular text with no markdown
+<! -- ## About
+this is just regular text with no markdown -->
 ## My Interests
 * this 
 * is
