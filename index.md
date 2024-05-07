@@ -1,6 +1,6 @@
 # Bronwen's DSRI Experiment Page
 
-![trailcam fox looking quizzical](https://github.com/bdensmore2/DemoSite/blob/main/foxy.jpg)
+[trailcam fox looking quizzical](https://github.com/bdensmore2/DemoSite/blob/main/foxy.jpg)
 
 
 ## My Interests
